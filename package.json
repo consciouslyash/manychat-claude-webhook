@@ -1,0 +1,17 @@
+
+  "name": "manychat-claude-webhook",
+  "version": "1.0.0",
+  "description": "Webhook for ManyChat to call Claude API with Ash's voice",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
