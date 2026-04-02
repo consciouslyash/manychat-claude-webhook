@@ -1,4 +1,4 @@
-
+{
   "name": "manychat-claude-webhook",
   "version": "1.0.0",
   "description": "Webhook for ManyChat to call Claude API with Ash's voice",
